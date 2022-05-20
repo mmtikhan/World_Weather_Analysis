@@ -15,4 +15,4 @@ For solving this task we will use Python programming with APIs functionality.
 
 ### Create a Customer Travel Destinations Map
 By using the user weather prioreties the destination map is generated
-![]Vacation_Search/WeatherPy_vacation_map.png
+![](Vacation_Search/WeatherPy_vacation_map.png)
