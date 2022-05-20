@@ -16,3 +16,8 @@ For solving this task we will use Python programming with APIs functionality.
 ### Create a Customer Travel Destinations Map
 By using the user weather prioreties the destination map is generated
 ![](Vacation_Search/WeatherPy_vacation_map.png)
+
+
+### Create a Travel Itinerary Map
+The functionality shows the route between four cities chosen from the customer’s possible travel destinations.
+![](Vacation_Itinerary/WeatherPy_travel_map.png)
